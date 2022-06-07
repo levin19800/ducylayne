@@ -1,8 +1,15 @@
 
+LÜTFEN OKUYUN!
 Kullanım Kurulum 
 Hwid adresin aşağıda ise programa giriş yapabilirsin. Programa giriş yapmadan önce bios menüne gelip secure bootu aktif et 
 secure boot gözükmüyorsa bu video yardımcı olabilir (https://www.youtube.com/watch?v=712heeAz6b4&t=58s&ab_channel=RobotTV)
 secure bootu aktif etmene rağmen giremiyorsan bilgisayarın görmüyordur bu programı kullan (https://github.com/levin19800/ducylayne/raw/main/ActiveChecker.exe)
+
+BUNLAR AÇIKSA GİREMEZSİNİZ;
+Proxy Proxyfier Vpn Değişilmiş Ethernet ayarları - Dumper Suspender ollydbg 3.Parti Tüm Yazılımlar.
+Virüs programları Windows Güvenlik Duvarı
+
+
 
 v3 Sürümü İçindir 
 
